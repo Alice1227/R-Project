@@ -1,0 +1,37 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,year,developed
+1,Harvard University,United States of America,99.7,72.4,98.7,98.8,34.5,96.1,20152,8.9,0.25,2011,1
+6,University of Cambridge,United Kingdom,90.5,77.7,94.1,94,57,91.2,18812,11.8,0.34,2011,1
+21,University of Hong Kong,Hong Kong,68.4,91.4,71.4,96.1,56.5,79.2,19835,17.6,0.38,2011,1
+26,University of Tokyo,Japan,87.7,18.4,91.9,58.1, ,75.6,26199,5.7,0.1,2011,1
+61,LMU Munich,Germany,59.1,43.1,57.5,76.4,40.4,63,35691,15.5,0.13,2011,1
+115,National Taiwan University,Taiwan,50.3,29.2,59,61.6,35.7,55.2,31891,11.9,0.07,2011,1
+2,Harvard University,United States of America,95.8,67.5,97.4,99.8,35.9,93.9,20152,8.9,0.25,2012,1
+6,University of Cambridge,United Kingdom,90.5,85.3,94.2,97.3,55.5,92.4,18812,11.8,0.34,2012,1
+30,University of Tokyo,Japan,86.1,23,80.3,69.1,76.6,74.3,26199,5.7,0.1,2012,1
+34,University of Hong Kong,Hong Kong,74,83.7,80.1,60.5,64.1,72.3,19835,17.6,0.38,2012,1
+45,LMU Munich,Germany,63.8,54.3,59.9,84.6,40.7,67.6,35691,15.5,0.13,2012,1
+154,National Taiwan University,Taiwan,47.8,20.7,58.5,39.2,40,46.2,31891,11.9,0.07,2012,1
+4,Harvard University,United States of America,94.9,63.7,98.6,99.2,39.9,93.6,20152,8.9,0.25,2013,1
+7,University of Cambridge,United Kingdom,91.2,83.6,95.6,96.2,59.1,92.6,18812,11.8,0.34,2013,1
+27,University of Tokyo,Japan,87.9,27.6,89.9,71.3,59,78.3,26199,5.7,0.1,2013,1
+35,University of Hong Kong,Hong Kong,78.4,81.7,85.9,62.1,62.5,75.6,19835,17.6,0.38,2013,1
+48,LMU Munich,Germany,65.4,54.7,66.5,85.5,42,70.4,35691,15.5,0.13,2013,1
+134,National Taiwan University,Taiwan,56.4,24.6,65.7,45.5,44,53.2,31891,11.9,0.07,2013,1
+2,Harvard University,United States of America,95.3,66.2,98.5,99.1,40.6,93.9,20152,8.9,0.25,2014,1
+7,University of Cambridge,United Kingdom,90.6,86.7,95.3,95.7,52.8,92.3,18812,11.8,0.34,2014,1
+23,University of Tokyo,Japan,84.7,29.6,88,69.8,56.7,76.4,26199,5.7,0.1,2014,1
+43,University of Hong Kong,Hong Kong,61.6,80.3,69.9,61.5,56.9,65.3,19835,17.6,0.38,2014,1
+55,LMU Munich,Germany,55.4,56.3,54.1,83.3,41.4,63.1,35691,15.5,0.13,2014,1
+142,National Taiwan University,Taiwan,47.1,27.3,58.3,47.8,47.1,49.2,31891,11.9,0.07,2014,1
+2,Harvard University,United States of America,92.9,67.6,98.6,98.9,44,93.3,20152,8.9,0.25,2015,1
+5,University of Cambridge,United Kingdom,89.7,87.8,95.6,95.2,51.1,92,18812,11.8,0.34,2015,1
+23,University of Tokyo,Japan,81.4,32.4,85.1,74.7,51.2,76.1,26199,5.7,0.1,2015,1
+29,LMU Munich,Germany,65.1,56.4,69.1,83,100,71.9,35691,15.5,0.13,2015,1
+43,University of Hong Kong,Hong Kong,62.1,81.9,72.6,65.1,56,67.5,19835,17.6,0.38,2015,1
+155,National Taiwan University,Taiwan,48.8,27.5,57.3,47.7,43.8,49.3,31891,11.9,0.07,2015,1
+4,University of Cambridge,United Kingdom,88.2,91.5,96.7,97,55,92.8,18812,11.8,0.34,2016,1
+6,Harvard University,United States of America,83.6,77.2,99,99.8,45.2,91.6,20152,8.9,0.25,2016,1
+29,LMU Munich,Germany,70.5,62.8,77.4,85.7,100,77.3,35691,15.5,0.13,2016,1
+43,University of Tokyo,Japan,81.4,30.3,83,60.9,50.8,71.1,26199,5.7,0.1,2016,1
+44,University of Hong Kong,Hong Kong,64.6,99.5,72.8,70.1,53.7,71,19835,17.6,0.38,2016,1
+167,National Taiwan University,Taiwan,54.1,27.7,58,47.3,49.6,51.1,31891,11.9,0.07,2016,1
